@@ -1,4 +1,4 @@
-# NinjaShop Automation Framework
+# Problem Statement 11: NinjaShop – Selenium-Java Test Automation Framework for a Full-Featured Demo Online Store
 
 ## Overview
 
@@ -7,6 +7,8 @@ The **NinjaShop Automation Framework** is a robust Selenium-based automation sol
 This framework validates key e-commerce workflows such as authentication, product browsing, cart operations, and checkout, ensuring reliability and scalability.
 
 ---
+## Application Under Test
+https://tutorialsninja.com/demo
 
 ## Key Features
 
